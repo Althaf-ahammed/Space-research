@@ -1,0 +1,13 @@
+p{
+    margin: 2% 4%;
+}
+.card{
+    background-color: white;
+    box-shadow: 5px 10px #888888;
+    margin:5% 5%;
+    padding-bottom: 2%;
+}
+.container{
+    background-color: darkgray;
+    padding-bottom: 3%;
+}
