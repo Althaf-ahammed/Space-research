@@ -2,7 +2,7 @@
 
 ### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
 
-# Deployed at https://universetracker.netlify.app/
+#### Deployed at https://universetracker.netlify.app/
 
 ### How to submit your code for review:
 
